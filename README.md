@@ -45,9 +45,7 @@ I am currently a third-year doctoral student at the Besançon Mathematics Labora
 - Data visualization techniques and tools.
 
 ### 📫 How to reach me
-- Email: segun.adebayo65@yahoo.com
-- Phone: +39 3533391143 / +33 (0)758817823
-- Address: 19 Rue de l’Epitaphe, 25000 Besançon, France
+- Email: segun.adebayo65@yahoo.com/ olusegun.adebayo@univ-fcomte.fr
 
 ### 😄 Pronouns
 He/Him
