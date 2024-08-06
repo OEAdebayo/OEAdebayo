@@ -34,7 +34,7 @@ I am currently a third-year doctoral student at the Besançon Mathematics Labora
 - Machine learning applications in biology and medicine.
 - Open-source projects that need expertise in Python, R, or MATLAB.
 
-### 🤔 I’m looking for help with
+### 🤔 I’m open to
 - Collaborations on publications and research.
 - Networking with other professionals in my field.
 - Finding opportunities to present my research.
@@ -46,6 +46,7 @@ I am currently a third-year doctoral student at the Besançon Mathematics Labora
 
 ### 📫 How to reach me
 - Email: segun.adebayo65@yahoo.com/ olusegun.adebayo@univ-fcomte.fr
+- LinkedIn: [Olusegun Adebayo](https://www.linkedin.com/in/olusegun-adebayo/)
 
 ### 😄 Pronouns
 He/Him
