@@ -32,7 +32,7 @@ I am currently a third-year doctoral student at the Besançon Mathematics Labora
 ### 👯 I’m looking to collaborate on
 - Research projects related to mathematical modeling and data science.
 - Machine learning applications in biology and medicine.
-- Open-source projects that need expertise in Python, R, or MATLAB.
+- Open-source projects that need expertise in Python.
 
 ### 🤔 I’m open to
 - Collaborations on publications and research.
