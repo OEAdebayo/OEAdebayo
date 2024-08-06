@@ -45,8 +45,10 @@ I am currently a third-year doctoral student at the Besançon Mathematics Labora
 - Data visualization techniques and tools.
 
 ### 📫 How to reach me
-- Email: segun.adebayo65@yahoo.com/ olusegun.adebayo@univ-fcomte.fr
-- LinkedIn: [Olusegun Adebayo](https://www.linkedin.com/in/olusegun-adebayo/)
+- Email: [![Email](https://img.icons8.com/fluency/20/000000/email.png)](mailto:segun.adebayo65@yahoo.com) segun.adebayo65@yahoo.com
+- LinkedIn: [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/olusegun-adebayo/)
+- Google Scholar: [![Google Scholar](https://img.icons8.com/color/20/000000/google-scholar.png)](https://scholar.google.com/citations?user=E31gAaEAAAAJ)
+
 
 ### 😄 Pronouns
 He/Him
