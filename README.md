@@ -2,7 +2,7 @@
 
 ### 🧬 About Me
 
-I am a **Python-focused Bioinformatician and Postdoctoral Researcher** at **Collège de France (CIRB – Denis Duboule Lab)**, working on **chromatin organization and developmental gene regulation** using large-scale **2D/3D multi-omics datasets**.
+I am a **Bioinformatician and Postdoctoral Researcher** at **Collège de France (CIRB – Denis Duboule Lab)**, working on **chromatin organization and developmental gene regulation** using large-scale **2D/3D multi-omics datasets**.
 
 I recently completed my **PhD in Applied Mathematics** at **Université de Bourgogne Franche-Comté**, where I combined **Python, machine learning, deep learning, and mathematical modeling** to study **keloid disease dynamics and medical image classification**.
 
